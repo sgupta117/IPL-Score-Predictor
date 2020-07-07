@@ -6,8 +6,8 @@
 • If you want to view the deployed model, click on the following link:<br />
 Deployed at: _https://ipl-score-predictor-app.herokuapp.com_
 
-• If you are searching for __Code__, __Algorithms used__ and __Accuracy__ of the model.. you won't find it here. Click the link mentioned below for the same:<br />
-Link: _https://github.com/anujvyas/Machine-Learning-Projects/tree/master/First%20Innings%20Score%20Predicton%20-%20IPL_
+• If you are searching for __Code__, __Algorithms used__ and __Accuracy__ of the model... Click the link mentioned below for the same:<br />
+Link: _https://github.com/sgupta117/IPL-Score-Predictor/blob/master/First%20Innings%20Score%20Predictor%20-%20IPL.py_
 
 • Please do ⭐ the repository, if it helped you in anyway.
 
